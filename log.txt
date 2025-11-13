@@ -1,4 +1,5 @@
-ae4f928 (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 2.1 finished; refactoring step complete
+b7dd958 (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 2.2 finished; extracting volume credits
+ae4f928 Task 2.1 finished; refactoring step complete
 85d4faf Task 2.1 in progress; extracted switch statement logic and other refactoring
 a1f9846 Task 1.2 finished; log updated
 1b1eb39 Task 1.1 finished; initial Checkstyle cleanup
