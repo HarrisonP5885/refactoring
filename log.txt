@@ -1,2 +1,5 @@
-1b1eb39 (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 1.1 finished; initial Checkstyle cleanup
+85d4faf (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 2.1 in progress; extracted switch statement logic and other refactoring
+a1f9846 Task 1.2 finished; log updated
+1b1eb39 Task 1.1 finished; initial Checkstyle cleanup
 327e8e8 (origin/main, origin/HEAD, main) Initial commit
+PS C:\Users\harri\IdeaProjects\refactoringlocal> 
