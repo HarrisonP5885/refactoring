@@ -1,4 +1,5 @@
-ad8bb01 (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 2.3 finished; removed frmt variable and added helpers
+e0f7522 (HEAD -> refactoring-fixes, origin/refactoring-fixes) Task 2.4 finished; refactored by splitting loop
+ad8bb01 Task 2.3 finished; removed frmt variable and added helpers
 b7dd958 Task 2.2 finished; extracting volume credits
 ae4f928 Task 2.1 finished; refactoring step complete
 85d4faf Task 2.1 in progress; extracted switch statement logic and other refactoring
